@@ -18,6 +18,7 @@ the ready data should be seperated into two columns: married and unmarried. The 
 - 3)	Set the significance level :  α =.05
 - 4)	Run the hypothesis test: compare two independent groups
 ![alt tag](https://github.com/mdalai/statistics/blob/master/t-test.png)
+  
   -- P-Value = 0.0127. It is less than significance level α =.05. So we reject H0.   
   -- we can conclude that the married has higher wage than the unmarried. 
 
